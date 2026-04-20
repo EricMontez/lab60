@@ -4,7 +4,8 @@
 
 int main(){
     // Input Function
-    int a, b, sum, avg;
+    int a, b, sum;
+    double avg;
     getinput(a,b);
 
     // Calculation Function
